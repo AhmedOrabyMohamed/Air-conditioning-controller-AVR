@@ -1,8 +1,8 @@
 /*
  * KP.h
  *
- *  Created on: ??þ/??þ/????
- *      Author: Admin
+ *  Created on: Jul 22, 2025
+ *      Author:  Ahmed Oraby Mohamed
  */
 
 #ifndef HAL_KP_KP_H_
@@ -16,3 +16,4 @@ void KP_Init       (u8 KP_Port ) ;
 u8   KP_GetValue (u8 KP_Port ) ;
 
 #endif /* HAL_KP_KP_H_ */
+
