@@ -1,8 +1,8 @@
 /*
  * ADC.h
  *
- *  Created on: ??þ/??þ/????
- *      Author: Admin
+ *  Created on: Jul 22, 2025
+ *      Author:  Ahmed Oraby Mohamed
  */
 
 #ifndef MCAL_ADC_ADC_H_
@@ -58,3 +58,4 @@ u16 ADC_ReadDataUsingInterrupt (void) ;
 void ADC_CallBack (void (*fptr)(void)) ;
 
 #endif /* MCAL_ADC_ADC_H_ */
+
