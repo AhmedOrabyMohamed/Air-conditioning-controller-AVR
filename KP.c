@@ -1,8 +1,8 @@
 /*
  * KP.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: Admin
+ *  Created on: Jul 22, 2025
+ *      Author:  Ahmed Oraby Mohamed
  */
 
 #include "../../LIB/BIT_MATH.h"
@@ -53,3 +53,4 @@ u8   KP_GetValue (u8 KP_Port )
 	}
 	return value;
 }
+
