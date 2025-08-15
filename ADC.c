@@ -1,8 +1,8 @@
 /*
  * ADC.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: Admin
+ *  Created on:Jul 22, 2025
+ *      Author:  Ahmed Oraby Mohamed
  */
 
 
@@ -123,3 +123,4 @@ void __vector_16 (void)
 		ADC_PTR_FUN () ;
 	}
 }
+
