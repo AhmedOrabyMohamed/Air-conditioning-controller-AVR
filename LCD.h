@@ -1,8 +1,8 @@
 /*
  * LCD.h
  *
- *  Created on: ??þ/??þ/????
- *      Author: Admin
+ *  Created on: Jul 30, 2025
+ *      Author:  Ahmed Oraby Mohamed
  */
 
 #ifndef HAL_LCD_LCD_H_
@@ -29,3 +29,4 @@ void LCD_Move_Cursor (u8 row,u8 col);
 void LCD_WriteCustomChar (u8 ARR[],u8 blockNumber,u8 row,u8 col);
 
 #endif /* HAL_LCD_LCD_H_ */
+
