@@ -1,8 +1,8 @@
 /*
  * LCD.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: Admin
+ *  Created on: Jul 30, 2025
+ *      Author:  Ahmed Oraby Mohamed
  */
 
 #include "../../LIB/BIT_MATH.h"
@@ -104,6 +104,7 @@ void LCD_WriteCustomChar (u8 ARR[],u8 blockNumber,u8 row,u8 col)
 	LCD_Move_Cursor (row,col);
 	LCD_WriteData (blockNumber);
 }
+
 
 
 
