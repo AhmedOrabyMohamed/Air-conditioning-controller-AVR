@@ -1,7 +1,7 @@
 /*
  * KP.c
  *
- *  Created on: Jul 22, 2025
+ *  Created on: Jul 30, 2025
  *      Author:  Ahmed Oraby Mohamed
  */
 
@@ -53,4 +53,5 @@ u8   KP_GetValue (u8 KP_Port )
 	}
 	return value;
 }
+
 
